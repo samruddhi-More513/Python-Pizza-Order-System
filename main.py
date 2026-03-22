@@ -52,7 +52,6 @@ while True:
      print(f"your total bill will be: ${bill}") 
      print("Thank you for ordering! 🍕")
 
-    # 🔁 REORDER OPTION
     again = input("\nDo you want to order again? (Y/N): ").upper()
     if again != "Y":
         print("Goodbye! 👋")
