@@ -34,5 +34,5 @@ A simple Python project that simulates a pizza ordering system using basic progr
 
 ---
 
->>>>>>> 1668c0dc0f459926bf6ae4ac5d87e9595ad372fb
+
 This project is part of my Python learning journey 🚀
