@@ -41,6 +41,7 @@ A simple Python project that simulates a pizza ordering system using basic progr
 - Select pizza size (Small, Medium, Large)
 - Add extra toppings (pepperoni, cheese)
 - Automatic bill calculation
+- Option to place multiple orders
 
 ## 🧠 Concepts Used
 - Conditional statements (if-else)
@@ -51,6 +52,7 @@ A simple Python project that simulates a pizza ordering system using basic progr
 - Writing clean conditional logic
 - Handling user inputs effectively
 - Structuring a Python program
+- Input validation for better user experience
 
 ## ▶️ How to Run
 1. Make sure Python is installed on your system
